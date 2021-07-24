@@ -8,6 +8,8 @@ public class Testing {
 		
 		GitTest gt=new GitTest();
 		System.out.println(gt.getSystemDate());
+		System.out.println("hello");
+		
 
 	}
 
